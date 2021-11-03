@@ -331,3 +331,27 @@ section {
     padding: 15px 0;
     font-size: 16px;
 }
+
+/* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER*/
+@media screen and (max-width: 980px) {
+    header h1 a {
+        /* this will be applied on any screen smaller than 980px */
+        color: tomato;
+    }
+}
+
+/* MEDIA QUERY FOR TABLETS AND SMALLER*/
+@media screen and (max-width:780px) {
+    header h1 {
+        /* this will be applied on any screen between 768 and 575px */
+        font-size: 80px;
+    }
+}
+
+/* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
+@media screen and (max-width: 575px) {
+    header h1 {
+        /* this will be applied on any screen smaller than 575px */
+        font-size: 100px;
+    }
+}
