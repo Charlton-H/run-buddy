@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# run-buddy
+=======
 # Run Buddy, Inc
 
 ## Purpose
@@ -14,3 +17,4 @@ https://lernantino.github.io/run-buddy/
 Made with ❤️ by [your name]
 
 ### ©️2019 Run Buddy, Inc 
+>>>>>>> d36eafd076af96c60ff91a7d8fec9d0274009d4f
